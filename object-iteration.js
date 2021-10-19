@@ -24,8 +24,8 @@ etc
 */
 
 export function makeWeirdStringFromKeys(someObject) {
-    let puppy = Object.keys(someObject);
-    return puppy;
+    let puppyKeys = Object.keys(someObject);
+    return puppyKeys;
 }
 
 
